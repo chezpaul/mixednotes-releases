@@ -5,5 +5,21 @@
     <link>https://raw.githubusercontent.com/chezpaul/mixednotes-releases/main/appcast.xml</link>
     <description>MixedNotes for macOS updates</description>
     <language>en</language>
+    <item>
+      <title>MixedNotes 0.216</title>
+      <pubDate>Fri, 12 Jun 2026 13:16:36 -0700</pubDate>
+      <sparkle:version>0.216</sparkle:version>
+      <sparkle:shortVersionString>0.216</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[First Sparkle-updatable release.
+
+- Waveform strip under the liquid circle: real per-song waveform, reflection, drag to seek
+- Touch-reactive liquid with true water physics (flick, glide, tilt)
+- Apple Watch app: one-tap audio notes pinned to the playing song
+- Optional: keep music playing (ducked) while dictating
+- Mac app auto-updates from this release onward (Sparkle, sandboxed)
+- Many fixes: persistent design dials, Dropbox connection errors, stale folder bookmarks]]></description>
+      <enclosure url="https://github.com/chezpaul/mixednotes-releases/releases/download/v0.216/MixedNotes-0.216.zip" sparkle:edSignature="BAE2u511u9DFirRg9Yy/ykouTLLgepJyNpTdb3qZ6ePJtG2mWn27UUUDuKSBiKK+3E0628cJer0L7rEXGfD5Cw==" length="7241815" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
