@@ -6,6 +6,17 @@
     <description>MixedNotes for macOS updates</description>
     <language>en</language>
     <item>
+      <title>MixedNotes 0.218</title>
+      <pubDate>Fri, 12 Jun 2026 17:13:54 -0700</pubDate>
+      <sparkle:version>0.218</sparkle:version>
+      <sparkle:shortVersionString>0.218</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[New Mac look: flat techy-gray console chrome (SpliceMover style) — capsule tabs, hardware buttons, LED toggles — with the original orange accents kept for notes and songs.
+
+Also includes the bug-hunt fixes: clearer Dropbox connection errors, self-healing folder bookmarks.]]></description>
+      <enclosure url="https://github.com/chezpaul/mixednotes-releases/releases/download/v0.218/MixedNotes-0.218.zip" sparkle:edSignature="3DGNcVRQtaZ+PFdbKw2H2jgWQcbc8RJse0rEVLjUYv1swfGyz0PPYkO7o4TVIWNZfBYVoXCmkOXxS4tVW5hYCA==" length="7423879" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MixedNotes 0.216</title>
       <pubDate>Fri, 12 Jun 2026 13:16:36 -0700</pubDate>
       <sparkle:version>0.216</sparkle:version>
