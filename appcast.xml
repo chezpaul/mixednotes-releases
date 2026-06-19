@@ -6,6 +6,15 @@
     <description>MixedNotes for macOS updates</description>
     <language>en</language>
     <item>
+      <title>MixedNotes 0.222</title>
+      <pubDate>Fri, 19 Jun 2026 15:06:24 -0700</pubDate>
+      <sparkle:version>0.222</sparkle:version>
+      <sparkle:shortVersionString>0.222</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Fixes the Mac app launching as 'damaged' on other Macs — for real this time (stray metadata files no longer ride along in the download). Clean, notarized build.]]></description>
+      <enclosure url="https://github.com/chezpaul/mixednotes-releases/releases/download/v0.222/MixedNotes-0.222.zip" sparkle:edSignature="MsUGkD6If2QmZjjh+my+WqgfVOouSz21uIFlXAczsnf9V1DcI1PC/kjZN+Vxe3OJN+sXk7R3wAY1qZfBEGT0Aw==" length="7371730" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MixedNotes 0.221</title>
       <pubDate>Fri, 19 Jun 2026 15:02:56 -0700</pubDate>
       <sparkle:version>0.221</sparkle:version>
