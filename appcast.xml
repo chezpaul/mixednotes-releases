@@ -6,6 +6,15 @@
     <description>MixedNotes for macOS updates</description>
     <language>en</language>
     <item>
+      <title>MixedNotes 0.225</title>
+      <pubDate>Sun, 21 Jun 2026 17:21:39 -0700</pubDate>
+      <sparkle:version>0.225</sparkle:version>
+      <sparkle:shortVersionString>0.225</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Fixes the Mac auto-updater (it couldn't run the installer). Install this build by hand once; after that updates apply themselves. Includes the new '+ New Song' creator with AI bullet lists.]]></description>
+      <enclosure url="https://github.com/chezpaul/mixednotes-releases/releases/download/v0.225/MixedNotes-0.225.zip" sparkle:edSignature="cH1DfHo0RH1b53nsCm/uLuziOqi+SjqkVN8axhuR9oljX6ybpPa1iqUBkPm8I12DFSPIiDKmcrzT8PVW13/4CA==" length="7417890" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MixedNotes 0.224</title>
       <pubDate>Sun, 21 Jun 2026 15:58:48 -0700</pubDate>
       <sparkle:version>0.224</sparkle:version>
