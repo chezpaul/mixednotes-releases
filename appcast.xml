@@ -6,6 +6,15 @@
     <description>MixedNotes for macOS updates</description>
     <language>en</language>
     <item>
+      <title>MixedNotes 0.227</title>
+      <pubDate>Sun, 21 Jun 2026 18:01:16 -0700</pubDate>
+      <sparkle:version>0.227</sparkle:version>
+      <sparkle:shortVersionString>0.227</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Mac authoring polish: new songs start empty (no placeholder note) until you add one, the Add Note button is set apart, and the duplicate Print button is gone.]]></description>
+      <enclosure url="https://github.com/chezpaul/mixednotes-releases/releases/download/v0.227/MixedNotes-0.227.zip" sparkle:edSignature="7PGd1jrYLssYyMjNCN4r4Ad9lGISWF/IbjcXKEqp6WYwuZ1rnjZ7FtUbb01tUmKQSgfjserbCubhuXfIuCR5CA==" length="7432281" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MixedNotes 0.226</title>
       <pubDate>Sun, 21 Jun 2026 17:30:27 -0700</pubDate>
       <sparkle:version>0.226</sparkle:version>
