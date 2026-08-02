@@ -6,6 +6,15 @@
     <description>MixedNotes for macOS updates</description>
     <language>en</language>
     <item>
+      <title>MixedNotes 0.228</title>
+      <pubDate>Sat, 01 Aug 2026 19:07:25 -0700</pubDate>
+      <sparkle:version>0.228</sparkle:version>
+      <sparkle:shortVersionString>0.228</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Set a song's listening location from the Mac sidebar (right-click → Set Location) — the whole song and its notes get tagged.]]></description>
+      <enclosure url="https://github.com/chezpaul/mixednotes-releases/releases/download/v0.228/MixedNotes-0.228.zip" sparkle:edSignature="9sN3T+2UVDrM3tX/6UuQepw2sCl+snDsbNBEMPYQsBpURs5nZjLYz0snYTujWHGjRLIZ89wJ+MaJE2Bj1OfuDg==" length="7439579" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MixedNotes 0.227</title>
       <pubDate>Sun, 21 Jun 2026 18:01:16 -0700</pubDate>
       <sparkle:version>0.227</sparkle:version>
