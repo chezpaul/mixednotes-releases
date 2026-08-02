@@ -6,6 +6,15 @@
     <description>MixedNotes for macOS updates</description>
     <language>en</language>
     <item>
+      <title>MixedNotes 0.229</title>
+      <pubDate>Sat, 01 Aug 2026 19:36:17 -0700</pubDate>
+      <sparkle:version>0.229</sparkle:version>
+      <sparkle:shortVersionString>0.229</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Listening-place badges now show the real device icon (iPhone, Car, AirPods) instead of headphones. Mac: fixed a deleted song leaving an empty ghost row.]]></description>
+      <enclosure url="https://github.com/chezpaul/mixednotes-releases/releases/download/v0.229/MixedNotes-0.229.zip" sparkle:edSignature="DS7yiTLY7IqB6ufD0BUI17AVwfRQ4CnWeTCtSH0Hjwc4eTDD/7h8KuQARiI7g7IgO4SJiSSXlQxY/CwtNf0zDQ==" length="7440512" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MixedNotes 0.228</title>
       <pubDate>Sat, 01 Aug 2026 19:07:25 -0700</pubDate>
       <sparkle:version>0.228</sparkle:version>
