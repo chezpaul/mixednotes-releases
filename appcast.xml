@@ -6,6 +6,15 @@
     <description>MixedNotes for macOS updates</description>
     <language>en</language>
     <item>
+      <title>MixedNotes 0.250</title>
+      <pubDate>Tue, 06 Oct 2026 18:06:15 -0700</pubDate>
+      <sparkle:version>0.250</sparkle:version>
+      <sparkle:shortVersionString>0.250</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[New matte black look matching the iPhone app, orange accent, app icon, listening place colours, Studio place.]]></description>
+      <enclosure url="https://github.com/chezpaul/mixednotes-releases/releases/download/v0.250/MixedNotes-0.250.zip" sparkle:edSignature="j78OFkWX29FZr8wrVjSg2TTJkg+UvE1djZUxstQrhf5h1U0BhkFEr9Ao7fhTRG30OONBrFeSjgOCzlIsj8psCQ==" length="8955198" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MixedNotes 0.231</title>
       <pubDate>Thu, 24 Sep 2026 17:26:18 -0700</pubDate>
       <sparkle:version>0.231</sparkle:version>
