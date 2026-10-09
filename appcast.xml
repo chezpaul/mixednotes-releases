@@ -6,6 +6,15 @@
     <description>MixedNotes for macOS updates</description>
     <language>en</language>
     <item>
+      <title>MixedNotes 0.270</title>
+      <pubDate>Fri, 09 Oct 2026 11:03:02 -0700</pubDate>
+      <sparkle:version>0.270</sparkle:version>
+      <sparkle:shortVersionString>0.270</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[When a song finishes, the play button resets and pressing play starts it again from the top.]]></description>
+      <enclosure url="https://github.com/chezpaul/mixednotes-releases/releases/download/v0.270/MixedNotes-0.270.zip" sparkle:edSignature="k+SzT6wEfXmkm8JZQNZgXyvX7HU4SWayaVW+Fd2uSVj4e3FaipcyoV4JO2cqbfx8L30GfEQqLUFWoP+QqBuYBw==" length="9247493" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MixedNotes 0.265</title>
       <pubDate>Fri, 09 Oct 2026 10:27:59 -0700</pubDate>
       <sparkle:version>0.265</sparkle:version>
