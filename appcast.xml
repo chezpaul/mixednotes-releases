@@ -6,6 +6,15 @@
     <description>MixedNotes for macOS updates</description>
     <language>en</language>
     <item>
+      <title>MixedNotes 0.265</title>
+      <pubDate>Fri, 09 Oct 2026 10:27:59 -0700</pubDate>
+      <sparkle:version>0.265</sparkle:version>
+      <sparkle:shortVersionString>0.265</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Smoother audio start and recording.]]></description>
+      <enclosure url="https://github.com/chezpaul/mixednotes-releases/releases/download/v0.265/MixedNotes-0.265.zip" sparkle:edSignature="BHNAkZErQj66g3lgOY8PilEFxgkE8VZ5a3Rx7ErwNxXwdEalh1odz72cX5Qrus4yXC3o28WXs40vDA/tvUbYDw==" length="9242409" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MixedNotes 0.264</title>
       <pubDate>Thu, 08 Oct 2026 10:16:21 -0700</pubDate>
       <sparkle:version>0.264</sparkle:version>
