@@ -6,6 +6,15 @@
     <description>MixedNotes for macOS updates</description>
     <language>en</language>
     <item>
+      <title>MixedNotes 1.0 (296)</title>
+      <pubDate>Thu, 15 Oct 2026 12:36:09 -0700</pubDate>
+      <sparkle:version>296</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Fixes the crash when opening Add Note. New: choose where you're listening (Studio, AirPods, Headphones) when adding a note.]]></description>
+      <enclosure url="https://github.com/chezpaul/mixednotes-releases/releases/download/v1.0-296/MixedNotes-1.0-296.zip" sparkle:edSignature="fcx70h2eSwc/KoCuIWzgyf1k6BCBWnfDcT156CMHsxIyNFo66NL0G41RiAcdx6oeIso2LXNV53IFwGZDcJzZBw==" length="9377043" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MixedNotes 1.0 (295)</title>
       <pubDate>Thu, 15 Oct 2026 12:21:31 -0700</pubDate>
       <sparkle:version>295</sparkle:version>
