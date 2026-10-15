@@ -6,6 +6,15 @@
     <description>MixedNotes for macOS updates</description>
     <language>en</language>
     <item>
+      <title>MixedNotes 1.0 (297)</title>
+      <pubDate>Thu, 15 Oct 2026 12:40:36 -0700</pubDate>
+      <sparkle:version>297</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Add Note: choose where you're listening from your own list of places, or add a new one (shared with the iPhone).]]></description>
+      <enclosure url="https://github.com/chezpaul/mixednotes-releases/releases/download/v1.0-297/MixedNotes-1.0-297.zip" sparkle:edSignature="ft8AZSLmgB7siFdiXlbsA2bgj0ewz5EAytQTrNBlJHCCjG1HuC4If88jv+5ZYViKWy/FddiXweLvEB+EWbmeBQ==" length="9392550" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MixedNotes 1.0 (296)</title>
       <pubDate>Thu, 15 Oct 2026 12:36:09 -0700</pubDate>
       <sparkle:version>296</sparkle:version>
