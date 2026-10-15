@@ -6,6 +6,15 @@
     <description>MixedNotes for macOS updates</description>
     <language>en</language>
     <item>
+      <title>MixedNotes 1.0 (292)</title>
+      <pubDate>Thu, 15 Oct 2026 11:50:59 -0700</pubDate>
+      <sparkle:version>292</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Fixes: adding a note on the Mac (cancel, double-save, order, voice audio), merge keeps listening places, update window can be cancelled.]]></description>
+      <enclosure url="https://github.com/chezpaul/mixednotes-releases/releases/download/v1.0-292/MixedNotes-1.0-292.zip" sparkle:edSignature="c3SHKxI6c+/wk61sSLQKCgJv7+R8WEZf0J/QgjWgCBDV7Ux6jn0nh/8CZPGLJQajS6b+oNAm4iC4Nz/YY9CTBg==" length="9340734" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MixedNotes 1.0 (290)</title>
       <pubDate>Thu, 15 Oct 2026 10:35:05 -0700</pubDate>
       <sparkle:version>290</sparkle:version>
