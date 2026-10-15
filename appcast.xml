@@ -6,6 +6,15 @@
     <description>MixedNotes for macOS updates</description>
     <language>en</language>
     <item>
+      <title>MixedNotes 1.0 (294)</title>
+      <pubDate>Thu, 15 Oct 2026 12:11:46 -0700</pubDate>
+      <sparkle:version>294</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[AI split can be undone: an UNDO banner shows for 8 seconds, and Cmd+Z undoes several steps back (splits and deletes).]]></description>
+      <enclosure url="https://github.com/chezpaul/mixednotes-releases/releases/download/v1.0-294/MixedNotes-1.0-294.zip" sparkle:edSignature="HcpTkKx4cQ0pk3nDP7jrBntaAh4PlJpmP7RSWPHDZklFJT5Lk1yKvq82TXq/I5667x37eUiluSc8cC8gJtbzDA==" length="9353514" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MixedNotes 1.0 (293)</title>
       <pubDate>Thu, 15 Oct 2026 12:07:53 -0700</pubDate>
       <sparkle:version>293</sparkle:version>
