@@ -6,6 +6,15 @@
     <description>MixedNotes for macOS updates</description>
     <language>en</language>
     <item>
+      <title>MixedNotes 1.0 (300)</title>
+      <pubDate>Fri, 16 Oct 2026 13:33:57 -0700</pubDate>
+      <sparkle:version>300</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Voice note language: new setting in Settings. Automatic follows your Mac's language; pick French or any Apple-supported language to transcribe voice notes in it.]]></description>
+      <enclosure url="https://github.com/chezpaul/mixednotes-releases/releases/download/v1.0-300/MixedNotes-1.0-300.zip" sparkle:edSignature="ZzCqxeb4WVQnOg21Z3LToITMz0OX2yzZS8rm/2H38bXXAgLZyu4zHSx1fGJZeQOqSTHvtqqgWHbLWpr37ZS3AA==" length="9424350" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MixedNotes 1.0 (299)</title>
       <pubDate>Fri, 16 Oct 2026 12:57:38 -0700</pubDate>
       <sparkle:version>299</sparkle:version>
