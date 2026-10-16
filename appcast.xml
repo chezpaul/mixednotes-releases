@@ -6,6 +6,15 @@
     <description>MixedNotes for macOS updates</description>
     <language>en</language>
     <item>
+      <title>MixedNotes 1.0 (299)</title>
+      <pubDate>Fri, 16 Oct 2026 12:57:38 -0700</pubDate>
+      <sparkle:version>299</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Bug fixes: Add Note (double-click Record, switching modes while recording), the update window, and Cmd+Z now undoes typing while you edit a note.]]></description>
+      <enclosure url="https://github.com/chezpaul/mixednotes-releases/releases/download/v1.0-299/MixedNotes-1.0-299.zip" sparkle:edSignature="ujo4A/WS7xy4lGfrs6bX5jQcjGu9O9tFtpjQRfGI5yHtwC5eeuo1jFL4VJ9JCGFrxCm/j4vq4CbXqyl2+2YYDw==" length="9401503" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MixedNotes 1.0 (297)</title>
       <pubDate>Thu, 15 Oct 2026 12:40:36 -0700</pubDate>
       <sparkle:version>297</sparkle:version>
