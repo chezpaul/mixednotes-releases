@@ -6,6 +6,15 @@
     <description>MixedNotes for macOS updates</description>
     <language>en</language>
     <item>
+      <title>MixedNotes 1.0 (301)</title>
+      <pubDate>Mon, 19 Oct 2026 16:58:21 -0700</pubDate>
+      <sparkle:version>301</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Notes added on your iPhone now appear on the Mac while MixedNotes is open, without quitting and relaunching.]]></description>
+      <enclosure url="https://github.com/chezpaul/mixednotes-releases/releases/download/v1.0-301/MixedNotes-1.0-301.zip" sparkle:edSignature="qZe8sjeVVpNaHW/krLCv8a/X8XyH25XDrxTvAcnx1LsRKOZGPFJSfa1ux/XhHVijyuu4ULaVu0EAA+Fl6DIHDg==" length="9424377" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MixedNotes 1.0 (300)</title>
       <pubDate>Fri, 16 Oct 2026 13:33:57 -0700</pubDate>
       <sparkle:version>300</sparkle:version>
