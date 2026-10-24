@@ -6,6 +6,15 @@
     <description>MixedNotes for macOS updates</description>
     <language>en</language>
     <item>
+      <title>MixedNotes 1.0 (302)</title>
+      <pubDate>Sat, 24 Oct 2026 11:21:42 -0700</pubDate>
+      <sparkle:version>302</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Bug fixes: AI split keeps your edits, mic turns off when recording stops, undo after merge no longer brings back old notes.]]></description>
+      <enclosure url="https://github.com/chezpaul/mixednotes-releases/releases/download/v1.0-302/MixedNotes-1.0-302.zip" sparkle:edSignature="P1SoQ5qfQbvToUSPn+JszrnIFCcuGwxVJvmNtuZsEPWKte0ciHTp+jKkKmMRIusXJLGAhkX0iqjB1awvQ6QRDA==" length="9429420" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MixedNotes 1.0 (301)</title>
       <pubDate>Mon, 19 Oct 2026 16:58:21 -0700</pubDate>
       <sparkle:version>301</sparkle:version>
