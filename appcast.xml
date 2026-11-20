@@ -16,7 +16,9 @@
 - Edit a note's text.
 - Settings > Listening Places: choose each place's icon and colour, add and delete places.
 - A message when no microphone is connected, instead of a crash.
-- Bug fixes.]]></description>
+- Bug fixes.
+
+MixedNotes Desktop is now on the Mac App Store, and future updates come from there. This is the last update for the downloaded version: https://apps.apple.com/app/id6822489994]]></description>
       <enclosure url="https://github.com/chezpaul/mixednotes-releases/releases/download/v1.0.1-309/MixedNotes-1.0.1-309.zip" sparkle:edSignature="Xjcx2xbaTGNf2MqT9P5yfdBwkWUG6N4f4PaKmX5jPeETWtc3BoFeBFHAl0LmgX7tLdHf80yIUpjaD9X9tH84DQ==" length="9505174" type="application/octet-stream"/>
     </item>
     <item>
